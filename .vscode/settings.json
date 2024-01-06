@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\1.Tugas Semester 3\\PBO\\Tugas JBDC dan crud\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+    ]
+}
